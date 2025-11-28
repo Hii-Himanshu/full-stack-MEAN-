@@ -1,4 +1,4 @@
-# 📦 Full-Stack MEAN Application — Dockerized & Deployed 
+#  Full-Stack MEAN Application — Dockerized & Deployed 
 
 
 #   Deploy on Any Cloud VM (Using AWS EC2 Example)
